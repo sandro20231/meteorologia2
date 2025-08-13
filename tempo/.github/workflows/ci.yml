@@ -3,9 +3,7 @@ name: CI Django
 on:
   push:
     branches:
-      - main  # ajuste se sua branch principal for outra
-
-jobs:
+      - main  
   test:
     runs-on: ubuntu-latest
 
