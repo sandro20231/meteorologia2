@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Echo test
-        run: echo "Hello world!!"
+        run: echo "Hello world!"
